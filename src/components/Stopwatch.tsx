@@ -4,9 +4,9 @@ export const Stopwatch = () => {
       xmlns='http://www.w3.org/2000/svg'
       xmlnsXlink='http://www.w3.org/1999/xlink'
       version='1.0'
-      width='64px'
-      height='72px'
-      viewBox='0 0 128 143'
+      width='128px'
+      height='144px'
+      // viewBox='0 0 128 143'
       xmlSpace='preserve'>
       <rect x='0' y='0' width='100%' height='100%' fill='#FFFFFF' />
       <path

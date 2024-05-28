@@ -4,8 +4,8 @@ export const LoadingClock = () => {
       xmlns='http://www.w3.org/2000/svg'
       xmlnsXlink='http://www.w3.org/1999/xlink'
       version='1.0'
-      width='64px'
-      height='64px'
+      width='128px'
+      height='128px'
       viewBox='0 0 128 128'
       xmlSpace='preserve'>
       <rect x='0' y='0' width='100%' height='100%' fill='#FFFFFF' />
