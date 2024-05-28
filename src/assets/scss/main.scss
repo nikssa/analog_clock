@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+html {
+  font-size: 10px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f4f4f4;
+}
+
+body {
+  font-size: 1.4rem;
+  position: relative;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.clocks {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 1rem;
+  min-height: calc(100vh - 2rem);
+
+  .clock {
+    background-color: #ddd;
+    border-radius: 0.5rem;
+    margin: 1rem;
+    min-width: 180px;
+    // max-width: 250px;
+    padding: 1.5rem 4rem;
+    text-align: center;
+    // flex-grow: 1;
+    // flex-basis: 0;
+  }
+}
